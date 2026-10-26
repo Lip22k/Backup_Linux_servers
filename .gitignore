@@ -1,0 +1,8 @@
+vendor/
+Chaves/
+ip_chaves.php
+Backup.bat
+arquivos/
+.env
+logs/
+IP_Keys.php
